@@ -87,3 +87,22 @@ This project aims to predict customer churn for a subscription-based company. Ch
 ---
 
 
+
+---
+
+## 🧾 Simple Cashier System (Local)
+
+This repository also includes a **simple cashier system** you can run locally on your laptop.
+
+### ✅ How to run
+```bash
+python3 cashier_system.py
+```
+
+### ✨ Features
+- Add/remove items
+- Update quantities
+- Discount & tax percentages
+- Checkout and save a CSV receipt in `receipts/`
+- Arabic + English prompts for ease of use
+
